@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pyautogui
+screeninfo
+pywin32
+
+
